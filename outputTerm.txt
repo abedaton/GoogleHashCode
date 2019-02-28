@@ -1,0 +1,170 @@
+Running with 8 cores...
+Loading ../TheProblem/a_example.txt...
+Attempt no. 1:
+Score: 1
+
+Attempt no. 2:
+Score: 2
+
+Attempt no. 3:
+Score: 1
+
+Attempt no. 4:
+Score: 1
+
+Attempt no. 5:
+Score: 1
+
+Attempt no. 6:
+Score: 1
+
+Attempt no. 7:
+Score: 2
+
+Attempt no. 8:
+Score: 1
+
+Attempt no. 9:
+Score: 2
+
+Attempt no. 10:
+Score: 1
+
+
+Bestscore: 2
+Running with 8 cores...
+Loading ../TheProblem/b_lovely_landscapes.txt...
+Attempt no. 1:
+Score: 15
+
+Attempt no. 2:
+Score: 6
+
+Attempt no. 3:
+Score: 27
+
+Attempt no. 4:
+Score: 21
+
+Attempt no. 5:
+Score: 6
+
+Attempt no. 6:
+Score: 12
+
+Attempt no. 7:
+Score: 12
+
+Attempt no. 8:
+Score: 18
+
+Attempt no. 9:
+Score: 6
+
+Attempt no. 10:
+Score: 15
+
+
+Bestscore: 27
+Running with 8 cores...
+Loading ../TheProblem/c_memorable_moments.txt...
+Attempt no. 1:
+Score: 145
+
+Attempt no. 2:
+Score: 120
+
+Attempt no. 3:
+Score: 123
+
+Attempt no. 4:
+Score: 148
+
+Attempt no. 5:
+Score: 129
+
+Attempt no. 6:
+Score: 149
+
+Attempt no. 7:
+Score: 116
+
+Attempt no. 8:
+Score: 137
+
+Attempt no. 9:
+Score: 153
+
+Attempt no. 10:
+Score: 118
+
+
+Bestscore: 153
+Running with 8 cores...
+Loading ../TheProblem/d_pet_pictures.txt...
+Attempt no. 1:
+Score: 172111
+
+Attempt no. 2:
+Score: 172314
+
+Attempt no. 3:
+Score: 172042
+
+Attempt no. 4:
+Score: 171975
+
+Attempt no. 5:
+Score: 172522
+
+Attempt no. 6:
+Score: 171847
+
+Attempt no. 7:
+Score: 172143
+
+Attempt no. 8:
+Score: 171789
+
+Attempt no. 9:
+Score: 172403
+
+Attempt no. 10:
+Score: 172135
+
+
+Bestscore: 172522
+Running with 8 cores...
+Loading ../TheProblem/e_shiny_selfies.txt...
+Attempt no. 1:
+Score: 111904
+
+Attempt no. 2:
+Score: 112093
+
+Attempt no. 3:
+Score: 112364
+
+Attempt no. 4:
+Score: 112394
+
+Attempt no. 5:
+Score: 112355
+
+Attempt no. 6:
+Score: 112655
+
+Attempt no. 7:
+Score: 112011
+
+Attempt no. 8:
+Score: 112574
+
+Attempt no. 9:
+Score: 112177
+
+Attempt no. 10:
+Score: 112656
+
+
+Bestscore: 112656
