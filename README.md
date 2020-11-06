@@ -1,0 +1,2 @@
+# GoogleHashCode
+Google's HashCode
